@@ -5,7 +5,7 @@ A color theme for the [Pi coding agent](https://github.com/earendil-works/pi) ba
 ## Install
 
 ```sh
-pi install git:github.com/jandauz/pi-tokyonight-theme
+pi install git:github.com/jandauz/pi-tokyonight
 ```
 
 Then select `tokyo-night` in Pi's `/settings`, or set it in `~/.pi/agent/settings.json`:
@@ -19,7 +19,7 @@ Then select `tokyo-night` in Pi's `/settings`, or set it in `~/.pi/agent/setting
 ## Update
 
 ```sh
-pi update git:github.com/jandauz/pi-tokyonight-theme
+pi update git:github.com/jandauz/pi-tokyonight
 ```
 
 ## License
